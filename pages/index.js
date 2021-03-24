@@ -16,7 +16,7 @@ export default function Home() {
           <Link href="/posts/first-post">
             <a>this page!</a>
           </Link> */}
-          Hello SQF.
+          Hello SQF2.
         </h1>
 
         <p className="description">
